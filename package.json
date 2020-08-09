@@ -1,7 +1,7 @@
 {
   "name": "react-opengraph",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "A simple ReactJS wrapper component that fetches open graph data from any given website.",
   "author": "mistryapurva",
   "license": "UNLICENSED",
   "repository": "mistryapurva/react-opengraph",
